@@ -1,4 +1,4 @@
-python code for false method in COLAB : https://colab.research.google.com/drive/124LsTU_TJk3ONG7DVBl2DvePYJb6aBGT?usp=sharing
-
-
-Google sheet solution for false method : https://docs.google.com/spreadsheets/d/1TmYCdKpxJRNRTI8p0rnUsNCpyGoK0ZK5nhzkNriHJnQ/edit?usp=sharing
+https://github.com/KSARAM/Latest-Data-Science-Job-Salaries-2020---2024/blob/main/DataScience_salaries_2024.csv
+https://github.com/KSARAM/Latest-Data-Science-Job-Salaries-2020---2024/blob/main/Dataset.md
+https://github.com/KSARAM/Latest-Data-Science-Job-Salaries-2020---2024/blob/main/Latest_Data_Science_Job_Salaries.ipynb
+https://github.com/KSARAM/Latest-Data-Science-Job-Salaries-2020---2024/blob/main/README.md
